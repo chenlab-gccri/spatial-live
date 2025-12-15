@@ -26,6 +26,8 @@
     "veaury": "^2.3.12",
     "vite-plugin-favicons-inject": "^2.2.0",
     "vue": "^3.2.47",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "vue-router": "^4.2.0"
   },
   "devDependencies": {
